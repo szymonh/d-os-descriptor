@@ -76,6 +76,10 @@ Linux (and Android) devices exposing usb gadgets with OS descriptor support
 may be arbitrarily crashed by a malicious host by means of a single control
 transfer message.
 
+## CVE
+
+[CVE-2022-25258](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-25258)
+
 ## Patch
 
 A patch addressing the described issue was accepted and is now available in
